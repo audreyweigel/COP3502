@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7cdad38-fd28-4c7e-ab13-0fe4cfeb7e6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WwCncV6WoDYaez5qqjNlrfVRqk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Calculator.java" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7cdad38-fd28-4c7e-ab13-0fe4cfeb7e6f" name="Default Changelist" comment="" />
+      <created>1580051437137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580051437137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580055225019">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1580055225019" />
+    <state width="921" height="230" key="GridCell.Tab.0.bottom" timestamp="1580057998641">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="921" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580057998641" />
+    <state width="921" height="230" key="GridCell.Tab.0.center" timestamp="1580057998640">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="921" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580057998640" />
+    <state width="921" height="230" key="GridCell.Tab.0.left" timestamp="1580057998640">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="921" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580057998640" />
+    <state width="921" height="230" key="GridCell.Tab.0.right" timestamp="1580057998641">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="921" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580057998641" />
+    <state x="546" y="203" key="IDE.errors.dialog" timestamp="1580057482070">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="546" y="203" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1580057482070" />
+    <state x="458" y="100" key="SettingsEditor" timestamp="1580057391499">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580057391498" />
+  </component>
+</project>

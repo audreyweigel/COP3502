@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dccb67fc-a262-4a40-9572-4445774bb4ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gatorraider/StudentAttackerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/Exec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/Exec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/controllers/AttackerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/controllers/AttackerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/controllers/DefenderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/controllers/DefenderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Attacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Attacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Defender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Defender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/models/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/models/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/DuoMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/DuoMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Attacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Attacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Defender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Defender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Game_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Game_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/system/_ReplayGame_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/system/_ReplayGame_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/view/GameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/view/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/System/game/view/Replay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/System/game/view/Replay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/AttackerHumanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/AttackerHumanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/StudentAttackerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/StudentAttackerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/StudentDefenderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatorraider/src/edu/ufl/cise/cs1/controllers/StudentDefenderController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/gatorraider" />
+  </component>
+  <component name="ProjectId" id="1r5xpf2wvdPt5QcFLu1QMn9DSD3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StudentAttackerController" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gatorraider.StudentAttackerController" />
+      <module name="StudentAttackerController" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StudentAttackerController" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dccb67fc-a262-4a40-9572-4445774bb4ec" name="Default Changelist" comment="" />
+      <created>1618279936494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618279936494</updated>
+      <workItem from="1618279940974" duration="974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618280054552">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1618280054552" />
+    <state x="886" y="353" width="514" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618280832748">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="886" y="353" width="514" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1618280832748" />
+    <state x="685" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1618279944445">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="685" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1618279944445" />
+  </component>
+</project>

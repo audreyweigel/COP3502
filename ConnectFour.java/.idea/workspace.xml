@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b9f993-b716-417a-add5-84cecce43934" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jnIOqmolgBIHJTXa7mTbBej44A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ConnectFour" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectFour" />
+      <module name="ConnectFour.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ConnectFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b9f993-b716-417a-add5-84cecce43934" name="Default Changelist" comment="" />
+      <created>1604433400140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604433400140</updated>
+      <workItem from="1604433402217" duration="3683000" />
+      <workItem from="1615313016801" duration="32000" />
+      <workItem from="1615433423204" duration="196000" />
+      <workItem from="1616034296441" duration="257000" />
+      <workItem from="1616291590380" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="896" height="230" key="GridCell.Tab.0.bottom" timestamp="1615313047770">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="896" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1615313047770" />
+    <state width="896" height="230" key="GridCell.Tab.0.center" timestamp="1615313047768">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="896" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1615313047768" />
+    <state width="896" height="230" key="GridCell.Tab.0.left" timestamp="1615313047768">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="896" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1615313047768" />
+    <state width="896" height="230" key="GridCell.Tab.0.right" timestamp="1615313047769">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="896" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1615313047769" />
+    <state x="574" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1616034302052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="574" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1616034302052" />
+  </component>
+</project>
